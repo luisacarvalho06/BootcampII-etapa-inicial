@@ -32,13 +32,13 @@ O No Eixo é um aplicativo web que cria um plano de ação claro no caos mental 
 
 ## Instalação
 1. Clone o repositorio:
-git clone <URL_DO_REPOSITORIO>
-cd BootcampII-etapa-inicial-NoEixo-
+
 
 ## Versão
 1.0.0
 
 ## Autor
-Luisa Carvalho- 
+Luisa Carvalho- https://github.com/luisacarvalho06
 
 ## Repositório
+https://github.com/luisacarvalho06/BootcampII-etapa-inicial-NoEixo-
